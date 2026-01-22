@@ -17,6 +17,15 @@ Papers, reproducible artifacts, and experiment references.
    [[paper]](https://arxiv.org/abs/2601.05432)  
    *Keywords:* Geolocalization, Map-Augmented Agents, Vision-Language Models, Reinforcement Learning, Spatial Reasoning
 
+2. **[2026 IJGIS] Georeferencing Complex Relative Locality Descriptions with Large Language Models**  
+   [[paper]](https://doi.org/10.1080/13658816.2026.2613291)  
+   *Keywords:* Georeferencing, Relative Locality Descriptions, Large Language Models, Spatial Relations, Text-to-Location
+
+3. **[2024 Applied Sciences] GeoLocator: A Location-Integrated Large Multimodal Model (LMM) for Inferring Geo-Privacy**  
+   [[paper]](https://doi.org/10.3390/app14167091)  
+   *Keywords:* Geolocalization, Multimodal Models, Geo-Privacy, Location Inference, Vision–Language Models
+
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
