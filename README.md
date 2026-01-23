@@ -31,3 +31,9 @@ Papers, reproducible artifacts, and experiment references.
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
    [[paper]](https://hazards.colorado.edu/weather-ready-research/do-virtual-reality-hazard-simulations-increase-peoples-willingness-to-contribute-to-hazard-mitigation)  
    *Keywords:* Virtual Reality, Hazard Communication, Risk Perception, Mitigation, Human-Subject Experiment
+
+## Multimodal Disaster Damage Assessment Datasets
+
+1. **[2025 arXiv] BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response**  
+   [[paper]](https://arxiv.org/abs/2501.06019)  
+   *Keywords:* Multimodal Disaster Dataset, Building Damage Assessment, Optical and SAR Imagery, All-Weather Disaster Response, Earth Observation
