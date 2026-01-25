@@ -45,3 +45,8 @@ Papers, reproducible artifacts, and experiment references.
 3. **[2025 ICA Abstracts] Perceiving Multidimensional Disaster Damages from Street-View Images Using Visual-Language Models**  
    [[paper]](https://doi.org/10.5194/ica-abs-10-310-2025)  
    *Keywords:* Visual-Language Models, Disaster Perception, Street-View Imagery, Multimodal AI, Resilience
+
+4. **[2025 arXiv] DisasterM3: A Remote Sensing Vision–Language Dataset for Disaster Damage Assessment and Response**  
+   [[paper]](https://arxiv.org/abs/2505.21089)  
+   *Keywords:* Vision–Language Models, Remote Sensing, Multimodal Disaster Dataset, Damage Assessment, Disaster Response, Cross-Sensor Generalization
+
