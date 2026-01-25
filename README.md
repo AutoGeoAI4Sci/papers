@@ -1,5 +1,12 @@
 # papers
-Papers, reproducible artifacts, and experiment references.
+Papers, reproducible artifacts, and references to experiments.
+
+## Science of AI-Driven Science (Science of AI4Science)
+
+1. **[2026 Nature] Artificial intelligence tools expand scientists’ impact but contract science’s focus**  
+   Qianyue Hao, Fengli Xu, Yong Li, James A. Evans  
+   [[paper]](https://www.nature.com/articles/s41586-025-09922-y)  
+   *Keywords:* AI for Science, Science of Science, Research Productivity, Topic Convergence, Scientific Diversity
 
 ## Foundation Models for GeoAI & Earth Science
 
