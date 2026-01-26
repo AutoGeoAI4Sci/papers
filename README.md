@@ -18,6 +18,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2508.06799)  
    *Keywords:* Semantic Digital Twins, Large Language Models, Knowledge Extraction, Infrastructure Planning, Regulation-Aware Optimization
 
+## GIScience, Autonomous GIS & Intelligent Geosystems
+
+1. **[2025 Annals of GIS] GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**  
+   [[paper]](https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2552161)  
+   *Keywords:* Autonomous GIS, GIScience, Large Language Models, Agentic AI, Intelligent Geosystems, Spatial Analysis
+
+
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
 1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
