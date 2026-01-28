@@ -43,6 +43,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.3390/app14167091)  
    *Keywords:* Geolocalization, Multimodal Models, Geo-Privacy, Location Inference, Vision–Language Models
 
+4. **[2025 arXiv] FRIEDA: Benchmarking Multi-Step Cartographic Reasoning in Vision–Language Models**  
+   Jiyoon Pyo, Yuankun Jiao, Dongwon Jung, Zekun Li, Leeja Jang, Sofia Kirsanova, Jina Kim, Yijun Lin, Qin Liu, Junyi Xie, Hadi Askari, Nan Xu, Muhao Chen, Yao-Yi Chiang  
+   [[paper]](https://arxiv.org/abs/2512.08016)  
+   *Keywords:* Cartographic Reasoning, Spatial Reasoning, Vision–Language Models, Map Understanding, Multi-Step Reasoning, GIS
 
 ## Hazard Communication, Decision-Making & Human Experiments
 
