@@ -8,11 +8,6 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.nature.com/articles/s41586-025-09922-y)  
    *Keywords:* AI for Science, Science of Science, Research Productivity, Topic Convergence, Scientific Diversity
 
-1. **[2026 Nature] Artificial intelligence tools expand scientists’ impact but contract science’s focus**  
-   Qianyue Hao, Fengli Xu, Yong Li, James A. Evans  
-   [[paper]](https://www.nature.com/articles/s41586-025-09922-y)  
-   *Keywords:* AI for Science, Science of Science, Research Productivity, Topic Convergence, Scientific Diversity
-
 ## Foundation Models for GeoAI & Earth Science
 
 1. **[2025 arXiv] Earth AI: Unlocking Geospatial Insights with Foundation Models and Cross-Modal Reasoning**  
