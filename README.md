@@ -33,6 +33,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2552161)  
    *Keywords:* Autonomous GIS, GIScience, Large Language Models, Agentic AI, Intelligent Geosystems, Spatial Analysis
 
+## Cross-View Image Synthesis & World-Ground Alignment
+
+1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
+   Junyan Ye, Jun He, **Weijia Li**, *et al.*  
+   [[paper]](https://arxiv.org/abs/2408.01812)  
+   *Keywords:* Ground-to-Aerial Synthesis, Cross-View Generation, Bird’s-Eye View (BEV), Diffusion Models, Street-to-Satellite
+
 
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
