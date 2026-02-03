@@ -22,6 +22,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2511.06337)  
    *Keywords:* 3D Urban Modeling, Structured Building Dataset, Urban Foundation Models, LiDAR Point Clouds, Building Reconstruction, Urban AI
 
+4. **[2026 arXiv] Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models**  
+   Rong Zhou, Dongping Chen, Zihan Jia, Yao Su, Yixin Liu, *et al.*  
+   [[paper]](https://arxiv.org/abs/2601.01321)  
+   *Keywords:* Digital Twins, World Models, Large Language Models, AI Systems, Physical–Virtual Interaction, Simulation, Decision-Making
+
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
 1. **[2025 Annals of GIS] GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**  
