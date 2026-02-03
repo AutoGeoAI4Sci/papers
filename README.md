@@ -53,6 +53,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Ye_Where_am_I_Cross-View_Geo-localization_with_Natural_Language_Descriptions_ICCV_2025_paper.html)  
    *Keywords:* Cross-View Geo-localization, Natural Language Descriptions, Vision–Language Models, Text-Guided Retrieval, Street-to-Satellite Matching
 
+6. **[2026 ICLR] UrbanFeel: A Comprehensive Benchmark for Temporal and Perceptual Understanding of City Scenes through Human Perspective**  
+   ICLR 2026 Conference Submission  
+   [[paper]](https://openreview.net/forum?id=OtLC2JNGZf)  
+   *Keywords:* Urban Benchmark, Human-Centered Urban Perception, Temporal Understanding, Multimodal Large Language Models, Street-View Reasoning
 
 
 ## Hazard Communication, Decision-Making & Human Experiments
