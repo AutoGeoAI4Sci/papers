@@ -27,6 +27,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2601.01321)  
    *Keywords:* Digital Twins, World Models, Large Language Models, AI Systems, Physical–Virtual Interaction, Simulation, Decision-Making
 
+5. **[2026 Communications Earth & Environment] On the foundations of Earth foundation models**  
+   Xiao Xiang Zhu, Zhitong Xiong, Yi Wang, Adam J. Stewart, Konrad Heidler, Yuanyuan Wang, Zhenghang Yuan, Thomas Dujardin, Qingsong Xu, Yilei Shi  
+   [[paper]](https://www.nature.com/articles/s43247-025-03127-x)  
+   *Keywords:* Earth Foundation Models, Geoscience AI, Environmental Modeling, Model Evaluation, Interpretability, Energy Efficiency, Adversarial Robustness
+
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
 1. **[2025 Annals of GIS] GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**  
