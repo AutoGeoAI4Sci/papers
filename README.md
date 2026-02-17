@@ -31,6 +31,11 @@ Papers, reproducible artifacts, and references to experiments.
    Xiao Xiang Zhu, Zhitong Xiong, Yi Wang, Adam J. Stewart, Konrad Heidler, Yuanyuan Wang, Zhenghang Yuan, Thomas Dujardin, Qingsong Xu, Yilei Shi  
    [[paper]](https://www.nature.com/articles/s43247-025-03127-x)  
    *Keywords:* Earth Foundation Models, Geoscience AI, Environmental Modeling, Model Evaluation, Interpretability, Energy Efficiency, Adversarial Robustness
+   
+6. **[2025 arXiv] AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data**  
+   [[paper]](https://arxiv.org/abs/2507.22291)  
+   *Keywords:* Earth Foundation Models, Embedding Fields, Global Mapping, Remote Sensing, Sparse Labels, Geospatial Representation Learning  
+
 
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
