@@ -85,6 +85,12 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://openreview.net/forum?id=OtLC2JNGZf)  
    *Keywords:* Urban Benchmark, Human-Centered Urban Perception, Temporal Understanding, Multimodal Large Language Models, Street-View Reasoning
 
+7. **[2026 Artificial Intelligence Review] Geospatial reasoning and awareness in large language models: a systematic review**  
+   Gabriel Ionut Dorobantu, Ana Cornelia Badea  
+   [[paper]](https://link.springer.com/article/10.1007/s10462-026-11512-x)  
+   *Keywords:* Geospatial Reasoning, Spatial Awareness, Large Language Models, Geographic Knowledge, Systematic Review, LLM Evaluation
+
+
 
 ## Hazard Communication, Decision-Making & Human Experiments
 
