@@ -48,6 +48,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2615511)  
    *Keywords:* Multi-Agent LLM, GeoJSON, Function Calling, Code Generation, Geospatial Analysis, Autonomous GIS, Tool-Augmented LLMs
 
+3. **[2024 Information Processing & Management] BB-GeoGPT: A Framework for Learning a Large Language Model for Geographic Information Science**  
+   Yifan Zhang, Zhiyun Wang, Zhengting He, Jingxuan Li, Gengchen Mai, Jiangfeng Lin, Cheng Wei, Wenhao Yu  
+   [[paper]](https://doi.org/10.1016/j.ipm.2024.103808)  
+   *Keywords:* GIS-Specific LLM, Geographic Knowledge Modeling, Domain Adaptation, Geospatial Benchmark, Large Language Models, Autonomous GIS
+
 ## Cross-View Image Synthesis & World-Ground Alignment
 
 1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
@@ -55,6 +60,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2408.01812)  
    *Keywords:* Ground-to-Aerial Synthesis, Cross-View Generation, Bird’s-Eye View (BEV), Diffusion Models, Street-to-Satellite
 
+2. **[2025 Computers, Environment and Urban Systems] Generative AI for Urban Planning: Synthesizing Satellite Imagery via Diffusion Models**  
+   Qingyi Wang, Yuebing Liang, Yunhan Zheng, Kaiyun Xu, Jinhua Zhao, Shenhao Wang  
+   [[paper]](https://doi.org/10.1016/j.compenvurbsys.2025.102339)  
+   *Keywords:* Generative GeoAI, Diffusion Models, Satellite Image Synthesis, Urban Planning, OpenStreetMap Alignment, Text-Conditioned Layout Generation
 
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
