@@ -133,3 +133,8 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.isprsjprs.2026.02.004)  
    *Keywords:* Multimodal Change Detection, Image Matching, Remote Sensing, Unsupervised Learning, Disaster Response
 
+8. **[2025 ISPRS Journal of Photogrammetry and Remote Sensing] Cross-view Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**  
+   Hao Li, Fabian Deuser, Wenping Yin, Xuanshu Luo, Paul Walther, Gengchen Mai, Wei Huang, Martin Werner  
+   [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.01.003)  
+   *Keywords:* Cross-View Geolocalization, Disaster Mapping, Street-View Imagery, VHR Satellite Imagery, Hurricane Ian, Multimodal Remote Sensing
+
