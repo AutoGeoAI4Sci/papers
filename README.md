@@ -65,6 +65,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.compenvurbsys.2025.102339)  
    *Keywords:* Generative GeoAI, Diffusion Models, Satellite Image Synthesis, Urban Planning, OpenStreetMap Alignment, Text-Conditioned Layout Generation
 
+3. **[2025 arXiv] From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images**  
+   Fei Yu, Yu Liu, Luyang Tang, Mingchao Sun, Zengye Ge, Rui Bu, Yuchao Jin, Haisen Zhao, He Sun, Yangyang Li, Mu Xu, Wenzheng Chen, Baoquan Chen  
+   [[paper]](https://arxiv.org/abs/2512.07527)  
+   *Keywords:* Generative Photogrammetry, Extreme Off-Nadir Imagery, 3D City Reconstruction, Cross-View Geometry, Viewpoint Extrapolation, Urban 3D Modeling
+
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
 1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
