@@ -104,7 +104,12 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://link.springer.com/article/10.1007/s10462-026-11512-x)  
    *Keywords:* Geospatial Reasoning, Spatial Awareness, Large Language Models, Geographic Knowledge, Systematic Review, LLM Evaluation
 
+## Urban Dynamics, Human Mobility & Remote Sensing
 
+1. **[2025 Nature Communications] Predicting human mobility flows in cities using deep learning on satellite imagery**  
+   Yichen Xu, Song Gao, Qunying Huang, Aslıgül Göçmen, Qiang Zhu, Feng Zhang  
+   [[paper]](https://www.nature.com/articles/s41467-025-65373-z)  
+   *Keywords:* Human Mobility Prediction, Satellite Imagery, Deep Learning, Urban Dynamics, Spatial Interaction Modeling, Remote Sensing, GeoAI
 
 ## Hazard Communication, Decision-Making & Human Experiments
 
