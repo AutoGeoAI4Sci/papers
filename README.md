@@ -36,6 +36,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2507.22291)  
    *Keywords:* Earth Foundation Models, Embedding Fields, Global Mapping, Remote Sensing, Sparse Labels, Geospatial Representation Learning  
 
+7. **[2026 arXiv] Any Model, Any Place, Any Time: Get Remote Sensing Foundation Model Embeddings On Demand**  
+   Dingqi Ye, Daniel Kiv, Wei Hu, Jimeng Shi, Shaowen Wang  
+   [[paper]](https://arxiv.org/abs/2602.23678)  
+   *Keywords:* Remote Sensing Foundation Models, Embeddings, Geospatial Representation Learning, ROI-based Retrieval, Earth Observation, Large-Scale Geospatial Analysis
 
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
