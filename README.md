@@ -57,6 +57,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.ipm.2024.103808)  
    *Keywords:* GIS-Specific LLM, Geographic Knowledge Modeling, Domain Adaptation, Geospatial Benchmark, Large Language Models, Autonomous GIS
 
+4. **[2026 arXiv] GeoVisA11y: An AI-based Geovisualization Question-Answering System for Screen-Reader Users** Chu Li, Rock Yuren Pang, Arnavi Chheda-Kothary, Ather Sharif, Henok Assalif, Jeffrey Heer, Jon E. Froehlich  
+   [[paper]](https://arxiv.org/abs/2603.07446)  
+   *Keywords:* Geovisualization, Accessibility, Screen-Reader, Question-Answering, AI-based GIS, Human-Computer Interaction
+
 ## Cross-View Image Synthesis & World-Ground Alignment
 
 1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
