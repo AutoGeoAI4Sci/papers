@@ -108,6 +108,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://link.springer.com/article/10.1007/s10462-026-11512-x)  
    *Keywords:* Geospatial Reasoning, Spatial Awareness, Large Language Models, Geographic Knowledge, Systematic Review, LLM Evaluation
 
+8. **[2026 WACV] Towards Unconstrained Cross-View Pose Estimation** Alexander Wollam, Kyle Ashley, Maxim Shugaev, Oliver Arend, Ilya Semenov, Hadis Dashtestani, Sumved Ravi, Nathan Jacobs  
+   [[paper]](https://atwollam.github.io/TUCVPE/)  
+   *Keywords:* Cross-View Pose Estimation, 3DoF Pose, Ground-to-Aerial Alignment, Transformers, Unconstrained Imagery, VIGOR Benchmark
+   
 ## Urban Dynamics, Human Mobility & Remote Sensing
 
 1. **[2025 Nature Communications] Predicting human mobility flows in cities using deep learning on satellite imagery**  
