@@ -47,7 +47,7 @@ Papers, reproducible artifacts, and references to experiments.
    *Keywords:* Earth embeddings, Artificial Intelligence, Geospatial Foundation Model, AI for Earth
 
 9. **[2026 Remote Sensing of Environment] Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model**  
-   Husheng Fang, Shunlin Liang, Wenyuan Li, Yongzhe Chen, Han Ma, Jianglei Xu, Yichuan Ma, Tao He, Feng Tian, Fengjiao Zhang, Hui Liang
+   Husheng Fang, Shunlin Liang, Wenyuan Li, Yongzhe Chen, Han Ma, Jianglei Xu, Yichuan Ma, Tao He, Feng Tian, Fengjiao Zhang, Hui Liang  
    [[paper]](https://doi.org/10.1016/j.rse.2026.115256)  
    *Keywords:* Rice mapping, Geospatial foundation model, Harmonized Landsat and Sentinel-2, Remote sensing, Monsoon Asia
 
