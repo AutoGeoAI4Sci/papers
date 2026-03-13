@@ -41,6 +41,18 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2602.23678)  
    *Keywords:* Remote Sensing Foundation Models, Embeddings, Geospatial Representation Learning, ROI-based Retrieval, Earth Observation, Large-Scale Geospatial Analysis
 
+8. **[2025 eartharXiv] Earth Embeddings: Towards AI-centric Representations of our Planet**  
+   Konstantin Klemmer, Esther Rolf, Marc Russwurm, Gustau Camps-Valls, Mikolaj Czerkawski, Stefano Ermon, Alistair Francis, Nathan Jacobs, Hannah Rae Kerner, Lester Mackey, Gengchen Mai, Oisin Mac Aodha, Markus Reichstein, Caleb Robinson, David Rolnick, Evan Shelhamer, Vincent Sitzmann, Devis Tuia, Xiaoxiang Zhu  
+   [[paper]](https://eartharxiv.org/repository/view/11083/)  
+   *Keywords:* Earth embeddings, Artificial Intelligence, Geospatial Foundation Model, AI for Earth
+
+9. **[2026 Remote Sensing of Environment] Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model**  
+   Husheng Fang, Shunlin Liang, Wenyuan Li, Yongzhe Chen, Han Ma, Jianglei Xu, Yichuan Ma, Tao He, Feng Tian, Fengjiao Zhang, Hui Liang
+   [[paper]](https://doi.org/10.1016/j.rse.2026.115256)  
+   *Keywords:* Rice mapping, Geospatial foundation model, Harmonized Landsat and Sentinel-2, Remote sensing, Monsoon Asia
+
+
+
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
 1. **[2025 Annals of GIS] GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**  
@@ -57,7 +69,8 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.ipm.2024.103808)  
    *Keywords:* GIS-Specific LLM, Geographic Knowledge Modeling, Domain Adaptation, Geospatial Benchmark, Large Language Models, Autonomous GIS
 
-4. **[2026 arXiv] GeoVisA11y: An AI-based Geovisualization Question-Answering System for Screen-Reader Users** Chu Li, Rock Yuren Pang, Arnavi Chheda-Kothary, Ather Sharif, Henok Assalif, Jeffrey Heer, Jon E. Froehlich  
+4. **[2026 arXiv] GeoVisA11y: An AI-based Geovisualization Question-Answering System for Screen-Reader Users** 
+   Chu Li, Rock Yuren Pang, Arnavi Chheda-Kothary, Ather Sharif, Henok Assalif, Jeffrey Heer, Jon E. Froehlich  
    [[paper]](https://arxiv.org/abs/2603.07446)  
    *Keywords:* Geovisualization, Accessibility, Screen-Reader, Question-Answering, AI-based GIS, Human-Computer Interaction
 
