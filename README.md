@@ -61,6 +61,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2603.07446)  
    *Keywords:* Geovisualization, Accessibility, Screen-Reader, Question-Answering, AI-based GIS, Human-Computer Interaction
 
+5. **[2026 arXiv] OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**  
+   Akashah Shabbir, Muhammad Umer Sheikh, Muhammad Akhtar Munir, Hiyam Debary, Mustansar Fiaz, Muhammad Zaigham Zaheer, Paolo Fraccaro, Fahad Shahbaz Khan, Muhammad Haris Khan, Xiao Xiang Zhu, Salman Khan  
+   [[paper]](https://arxiv.org/abs/2602.17665)  
+   *Keywords:* Geospatial Agents, Tool-Augmented LLMs, Autonomous GIS, GIS Reasoning, Multi-Agent Systems, Spatial Intelligence
+
 ## Cross-View Image Synthesis & World-Ground Alignment
 
 1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
