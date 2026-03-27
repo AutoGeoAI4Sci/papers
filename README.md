@@ -51,7 +51,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.rse.2026.115256)  
    *Keywords:* Rice mapping, Geospatial foundation model, Harmonized Landsat and Sentinel-2, Remote sensing, Monsoon Asia
 
-
+10. **[2026 International Journal of Applied Earth Observation and Geoinformation] Harvesting AlphaEarth: Benchmarking the geospatial foundation model for agricultural downstream tasks**  
+   Yuchi Ma, Yawen Shen, Anu Swatantran, David B. Lobell  
+   [[paper]](https://doi.org/10.1016/j.jag.2026.105258)  
+   *Keywords:* AlphaEarth, Geospatial Foundation Model, Agricultural Monitoring, Crop Yield Prediction, Tillage Mapping, Cover Crop Mapping, Earth Observation Benchmarking
 
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
