@@ -172,20 +172,20 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.nature.com/articles/s41586-025-09804-3)  
    *Keywords:* Extreme Weather Recovery, Built Environment Disparities, Street View Imagery, Multimodal Machine Learning, Urban Resilience
 
-7. **[2026 ISPRS P&RS] Multimodal remote sensing change detection: An image matching perspective**<br>
+6. **[2026 ISPRS P&RS] Multimodal remote sensing change detection: An image matching perspective**<br>
    [[paper]](https://doi.org/10.1016/j.isprsjprs.2026.02.004)  
    *Keywords:* Multimodal Change Detection, Image Matching, Remote Sensing, Unsupervised Learning, Disaster Response
 
-8. **[2025 ISPRS Journal of Photogrammetry and Remote Sensing] Cross-view Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**  
+7. **[2025 ISPRS Journal of Photogrammetry and Remote Sensing] Cross-view Geolocalization and Disaster Mapping with Street-View and VHR Satellite Imagery: A Case Study of Hurricane IAN**  
    Hao Li, Fabian Deuser, Wenping Yin, Xuanshu Luo, Paul Walther, Gengchen Mai, Wei Huang, Martin Werner  
    [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.01.003)  
    *Keywords:* Cross-View Geolocalization, Disaster Mapping, Street-View Imagery, VHR Satellite Imagery, Hurricane Ian, Multimodal Remote Sensing
 
-9. **[2026 IEEE Transactions on Geoscience and Remote Sensing] Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning**  
+8. **[2026 IEEE Transactions on Geoscience and Remote Sensing] Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning**  
    Wenwen Li, Chia-Yu Hsu, Sizhe Wang  
    [[paper]](https://ieeexplore.ieee.org/document/11343839)  
    *Keywords:* Wildfire Forecasting, Video Foundation Models, Cross-Modal Progressive Fine-Tuning (CMPF), Spatiotemporal Modeling, Multimodal Satellite Data, GeoAI, Domain Adaptation
 
-10. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**  
+9. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**  
    [[paper]](https://doi.org/10.1080/19475683.2025.2481063)  
    *Keywords:* Physically-based Modeling, Deep-Seated Landslides, Hydrological–Geotechnical Coupling, Slope Stability, Process-based Modeling, GIS-based Hazard Assessment
