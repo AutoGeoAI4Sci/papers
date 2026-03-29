@@ -185,3 +185,7 @@ Papers, reproducible artifacts, and references to experiments.
    Wenwen Li, Chia-Yu Hsu, Sizhe Wang  
    [[paper]](https://ieeexplore.ieee.org/document/11343839)  
    *Keywords:* Wildfire Forecasting, Video Foundation Models, Cross-Modal Progressive Fine-Tuning (CMPF), Spatiotemporal Modeling, Multimodal Satellite Data, GeoAI, Domain Adaptation
+
+10. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**  
+   [[paper]](https://doi.org/10.1080/19475683.2025.2481063)  
+   *Keywords:* Physically-based Modeling, Deep-Seated Landslides, Hydrological–Geotechnical Coupling, Slope Stability, Process-based Modeling, GIS-based Hazard Assessment
