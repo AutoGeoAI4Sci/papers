@@ -189,3 +189,7 @@ Papers, reproducible artifacts, and references to experiments.
 9. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**  
    [[paper]](https://doi.org/10.1080/19475683.2025.2481063)  
    *Keywords:* Physically-based Modeling, Deep-Seated Landslides, Hydrological–Geotechnical Coupling, Slope Stability, Process-based Modeling, GIS-based Hazard Assessment
+
+10. **[2026 arXiv] Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**  
+   [[paper]](https://arxiv.org/abs/2604.02627)  
+   *Keywords:* Vision Foundation Models, Transfer Learning, Building Damage Mapping, VHR Imagery, Earthquake Damage Assessment, GeoAI, Prototype Clustering, Domain Adaptation
