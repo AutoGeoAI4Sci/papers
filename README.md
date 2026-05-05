@@ -186,10 +186,15 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://ieeexplore.ieee.org/document/11343839)  
    *Keywords:* Wildfire Forecasting, Video Foundation Models, Cross-Modal Progressive Fine-Tuning (CMPF), Spatiotemporal Modeling, Multimodal Satellite Data, GeoAI, Domain Adaptation
 
-9. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**  
+9. **[2026 International Journal of Applied Earth Observation and Geoinformation] Satellite-based analysis of hourly progression and driving factors of large U.S. wildfires**<br>
+   Shanmin Fang, Jia Yang, Xiaohao Jiao, Chris B. Zou, Alex Desjardins, Haoxuan Yang, Quan Zhang, Alonzo Hernandez<br>
+   [[paper]](https://doi.org/10.1016/j.jag.2026.105288)<br>
+   *Keywords:* Wildfire Progression, GOES, Diurnal Cycle, Fire Weather Conditions, Satellite Remote Sensing, Fire Spread
+
+10. **[2025 Annals of GIS] Physically based model for assessing rainfall-induced deep-seated landslides using a hydrological-geotechnical model**<br>
    [[paper]](https://doi.org/10.1080/19475683.2025.2481063)  
    *Keywords:* Physically-based Modeling, Deep-Seated Landslides, Hydrological–Geotechnical Coupling, Slope Stability, Process-based Modeling, GIS-based Hazard Assessment
 
-10. **[2026 arXiv] Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**  
+11. **[2026 arXiv] Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**<br>
    [[paper]](https://arxiv.org/abs/2604.02627)  
    *Keywords:* Vision Foundation Models, Transfer Learning, Building Damage Mapping, VHR Imagery, Earthquake Damage Assessment, GeoAI, Prototype Clustering, Domain Adaptation
