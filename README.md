@@ -149,6 +149,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.nature.com/articles/s41467-025-65373-z)  
    *Keywords:* Human Mobility Prediction, Satellite Imagery, Deep Learning, Urban Dynamics, Spatial Interaction Modeling, Remote Sensing, GeoAI
 
+## Energy, Social Media & Public Perception
+
+1. **[2019 Energy Research & Social Science] Beyond big data: Social media challenges and opportunities for understanding social perception of energy**<br>
+   Ruopu Li, Jessica Crowe, David Leifer, Lei Zou, Justin Schoof<br>
+   [[paper]](https://doi.org/10.1016/j.erss.2019.101217)<br>
+   *Keywords:* Energy Social Science, Social Media Analytics, Public Perception, Energy Policy, Public Advocacy, Sentiment Analysis
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
