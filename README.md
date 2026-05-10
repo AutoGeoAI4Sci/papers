@@ -161,6 +161,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.erss.2019.101217)<br>
    *Keywords:* Energy Social Science, Social Media Analytics, Public Perception, Energy Policy, Public Advocacy, Sentiment Analysis
 
+## Flood Risk, Social Vulnerability & Disaster Risk Mapping
+
+1. **[2024 Nature Communications] Integrating social vulnerability into high-resolution global flood risk mapping**<br>
+   Sean Fox, Felix Agyemang, Laurence Hawker, Jeffrey Neal<br>
+   [[paper]](https://www.nature.com/articles/s41467-024-47394-2)<br>
+   *Keywords:* Flood Risk Mapping, Social Vulnerability, Vulnerability-Adjusted Risk Index, Fluvial Flooding, Global Risk Assessment, Population Exposure, Disaster Risk Reduction
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
