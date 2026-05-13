@@ -168,6 +168,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.nature.com/articles/s41467-024-47394-2)<br>
    *Keywords:* Flood Risk Mapping, Social Vulnerability, Vulnerability-Adjusted Risk Index, Fluvial Flooding, Global Risk Assessment, Population Exposure, Disaster Risk Reduction
 
+## Earth Observation & Disaster Mapping Benchmarks
+
+1. **[2026 SSRN] Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives**<br>
+   Hongruixuan Chen, Jian Song, Weihao Xuan, Junjue Wang, Heli Qi, Zeqi Zhou, *et al.*<br>
+   [[paper]](https://ssrn.com/abstract=6725082)<br>
+   *Keywords:* Earth Observation, Natural Hazards, Disaster Mapping, Deep Learning, Foundation Models, Benchmarking
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
