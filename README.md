@@ -46,12 +46,17 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://eartharxiv.org/repository/view/11083/)  
    *Keywords:* Earth embeddings, Artificial Intelligence, Geospatial Foundation Model, AI for Earth
 
-9. **[2026 Remote Sensing of Environment] Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model**  
+9. **[2026 arXiv] No One Knows the State of the Art in Geospatial Foundation Models**  
+   Isaac Corley, Nils Lehmann, Caleb Robinson, Gabriel Tseng, Anthony Fuller, Hamed Alemohammad, Evan Shelhamer, Jennifer Marcus, Hannah Kerner  
+   [[paper]](https://arxiv.org/abs/2605.12678)  
+   *Keywords:* Geospatial Foundation Models, Benchmarking, Reproducibility, Evaluation Protocols, Model Release, Community Standards
+
+10. **[2026 Remote Sensing of Environment] Generating an annual 30 m rice cover product for monsoon Asia (2018–2023) using harmonized Landsat and Sentinel-2 data and the NASA-IBM geospatial foundation model**  
    Husheng Fang, Shunlin Liang, Wenyuan Li, Yongzhe Chen, Han Ma, Jianglei Xu, Yichuan Ma, Tao He, Feng Tian, Fengjiao Zhang, Hui Liang  
    [[paper]](https://doi.org/10.1016/j.rse.2026.115256)  
    *Keywords:* Rice mapping, Geospatial foundation model, Harmonized Landsat and Sentinel-2, Remote sensing, Monsoon Asia
 
-10. **[2026 International Journal of Applied Earth Observation and Geoinformation] Harvesting AlphaEarth: Benchmarking the geospatial foundation model for agricultural downstream tasks**  
+11. **[2026 International Journal of Applied Earth Observation and Geoinformation] Harvesting AlphaEarth: Benchmarking the geospatial foundation model for agricultural downstream tasks**  
    Yuchi Ma, Yawen Shen, Anu Swatantran, David B. Lobell  
    [[paper]](https://doi.org/10.1016/j.jag.2026.105258)  
    *Keywords:* AlphaEarth, Geospatial Foundation Model, Agricultural Monitoring, Crop Yield Prediction, Tillage Mapping, Cover Crop Mapping, Earth Observation Benchmarking
