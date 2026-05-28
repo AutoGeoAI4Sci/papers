@@ -173,6 +173,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.nature.com/articles/s41467-024-47394-2)<br>
    *Keywords:* Flood Risk Mapping, Social Vulnerability, Vulnerability-Adjusted Risk Index, Fluvial Flooding, Global Risk Assessment, Population Exposure, Disaster Risk Reduction
 
+## Remote Sensing Super-Resolution & Downstream Evaluation
+
+1. **[2026 arXiv] Beyond Visual Fidelity: Benchmarking Super-Resolution Models for Large-Scale Remote Sensing Imagery via Downstream Task Integration**  
+   Zhili Li, Kangyang Chai, Zhihao Wang, Xiaowei Jia, Yanhua Li, Gengchen Mai, Sergii Skakun, Dinesh Manocha, Yiqun Xie  
+   [[paper]](https://arxiv.org/abs/2605.00310)  
+   *Keywords:* Remote Sensing Super-Resolution, Benchmarking, Downstream Evaluation, Earth Observation, Land Cover Segmentation, Infrastructure Mapping, Biophysical Estimation
+
 ## Earth Observation & Disaster Mapping Benchmarks
 
 1. **[2026 SSRN] Earth Observation for Disaster Mapping: Benchmarks, Methods, Challenges and Future Perspectives**<br>
