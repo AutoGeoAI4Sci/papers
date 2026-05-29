@@ -87,12 +87,17 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2602.17665)  
    *Keywords:* Geospatial Agents, Tool-Augmented LLMs, Autonomous GIS, GIS Reasoning, Multi-Agent Systems, Spatial Intelligence
 
-6. **[2026 arXiv] NORA: A Harness-Engineered Autonomous Research Agent for End-to-End Spatial Data Science**<br>
+6. **[2026 arXiv] Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**<br>
+   Riyang Bao, Cheng Yang, Dazhou Yu, Zhexiang Tang, Gengchen Mai, Liang Zhao<br>
+   [[paper]](https://arxiv.org/abs/2601.16965)<br>
+   *Keywords:* Agentic Geospatial Reasoning, Spatial Information Science, GeoFlow Graphs, Geospatial Agents, Concept Transformation, MapQA, MapEval-API
+
+7. **[2026 arXiv] NORA: A Harness-Engineered Autonomous Research Agent for End-to-End Spatial Data Science**<br>
    Bing Zhou, Xiao Huang, Huan Ning, Qiusheng Wu, Diya Li, Ziyi Zhang<br>
    [[paper]](https://arxiv.org/abs/2605.02092)<br>
    *Keywords:* Autonomous Research Agents, Spatial Data Science, Harness Engineering, GIScience, Multi-Agent Systems, Scientific Workflow Automation
 
-7. **[2025 Annals of GIS] Neural representation of geoinformation in the human brain: affected by abstraction levels and spatial scales**<br>
+8. **[2025 Annals of GIS] Neural representation of geoinformation in the human brain: affected by abstraction levels and spatial scales**<br>
    Tianyu Yang, Bo Zhao, Song Gao, Weihua Dong<br>
    [[paper]](https://doi.org/10.1080/19475683.2025.2487979)<br>
    *Keywords:* Geoinformation, Spatial Cognition, Abstraction Level, Spatial Scale, Functional Magnetic Resonance Imaging, Cartographic Design
