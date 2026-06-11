@@ -192,6 +192,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://ssrn.com/abstract=6725082)<br>
    *Keywords:* Earth Observation, Natural Hazards, Disaster Mapping, Deep Learning, Foundation Models, Benchmarking
 
+2. **[2026 arXiv] The Perception-Physics Paradox: Probing Scientific Alignment with TC-Bench**<br>
+   Dingling Yao, Andrea Polesello, Adeel Pervez, Caroline Muller, Francesco Locatello<br>
+   [[paper]](https://arxiv.org/abs/2605.24782)<br>
+   *Keywords:* Vision Foundation Models, Scientific Alignment, Tropical Cyclones, Benchmark Dataset, Satellite Imagery, Structural Isomorphism, Physical & Causal Interpretability, Out-of-Distribution Generalization
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
