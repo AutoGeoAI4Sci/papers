@@ -119,6 +119,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2512.07527)  
    *Keywords:* Generative Photogrammetry, Extreme Off-Nadir Imagery, 3D City Reconstruction, Cross-View Geometry, Viewpoint Extrapolation, Urban 3D Modeling
 
+4. **[2026 arXiv] Cross-View Splatter: Feed-Forward View Synthesis with Georeferenced Images**  
+   Matias Turkulainen, Akshay Krishnan, Filippo Aleotti, Mohamed Sayed, Guillermo Garcia-Hernando, Juho Kannala, Arno Solin, Gabriel Brostow, Daniyar Turmukhambetov  
+   [[paper]](https://arxiv.org/abs/2605.19656)  
+   *Keywords:* Cross-View Synthesis, Satellite-Ground Fusion, Gaussian Splatting, Feed-Forward Novel-View Synthesis, Georeferenced Imagery, 3D Reconstruction, World-Ground Alignment
+
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
 1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
