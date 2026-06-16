@@ -256,3 +256,8 @@ Papers, reproducible artifacts, and references to experiments.
 11. **[2026 arXiv] Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**<br>
    [[paper]](https://arxiv.org/abs/2604.02627)  
    *Keywords:* Vision Foundation Models, Transfer Learning, Building Damage Mapping, VHR Imagery, Earthquake Damage Assessment, GeoAI, Prototype Clustering, Domain Adaptation
+
+12. **[2026 ISPRS Journal of Photogrammetry and Remote Sensing] GeoSight v2: Strengthening Disaster Impact Assessment with Coordinate Referencing, Inpainting, and Similarity Models**  
+   Jooho Kim, J.V.K. Chaitanya  
+   [[paper]](https://doi.org/10.1016/j.isprsjprs.2026.03.030)  
+   *Keywords:* Geolocation Refinement, Coordinate Referencing, Building Detection & Inpainting, Perceptual Similarity, DreamSim, Community-Driven Disaster Imagery, Damage Mapping
