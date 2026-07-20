@@ -239,7 +239,12 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://doi.org/10.1016/j.isprsjprs.2025.01.003)  
    *Keywords:* Cross-View Geolocalization, Disaster Mapping, Street-View Imagery, VHR Satellite Imagery, Hurricane Ian, Multimodal Remote Sensing
 
-8. **[2026 IEEE Transactions on Geoscience and Remote Sensing] Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning**  
+8. **[2026 arXiv] HASTE: A Platform for Rapid Post-Disaster Building Damage Assessment**  
+   Caleb Robinson, Anthony Ortiz, Simone Fobi Nsutezo, Cameron Birge, Meygha Machado, Marcelo Duarte, Joaquin Rivero Rodriguez, Anthony Cintron Roman, Kevin White, Inbal Becker-Reshef, Juan M. Lavista Ferres  
+   [[paper]](https://arxiv.org/abs/2607.11838) [[code]](https://github.com/microsoft/haste)  
+   *Keywords:* Post-Disaster Building Damage Assessment, Satellite Imagery, Human-in-the-Loop Learning, Few-Shot Learning, Semantic Segmentation, Foundation Models, Disaster Response
+
+9. **[2026 IEEE Transactions on Geoscience and Remote Sensing] Adapting Video Foundation Models for Spatiotemporal Wildfire Forecasting via Cross-Modal Progressive Fine-Tuning**  
    Wenwen Li, Chia-Yu Hsu, Sizhe Wang  
    [[paper]](https://ieeexplore.ieee.org/document/11343839)  
    *Keywords:* Wildfire Forecasting, Video Foundation Models, Cross-Modal Progressive Fine-Tuning (CMPF), Spatiotemporal Modeling, Multimodal Satellite Data, GeoAI, Domain Adaptation
