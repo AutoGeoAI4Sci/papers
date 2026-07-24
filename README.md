@@ -1,7 +1,7 @@
 # papers
 Papers, reproducible artifacts, and references to experiments.
 
-[简体中文](README.zh-CN.md)
+[简体中文](README.zh-CN.md) | [AI Foundations](ai-foundations/) | [Spatial Intelligence](spatial-intelligence/)
 
 ## Core Reading: AI/CV Foundations & Geo-Grounded 3D Vision-Language Reasoning
 
