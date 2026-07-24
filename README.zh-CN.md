@@ -1,7 +1,7 @@
 # 论文精选
 论文、可复现实验产物与实验参考。
 
-[English](README.md)
+[English](README.md) | [AI 基础](ai-foundations/) | [空间智能](spatial-intelligence/)
 
 ## 核心阅读：AI/CV 基础与地理配准的 3D 视觉语言推理
 
