@@ -1,74 +1,76 @@
 # papers
 Papers, reproducible artifacts, and references to experiments.
 
+[简体中文](README.zh-CN.md)
+
 ## Core Reading: AI/CV Foundations & Geo-Grounded 3D Vision-Language Reasoning
 
-下面的 20 篇构成两条各十篇的必读路径，服务于 **Geo-grounded 3D Vision-Language Reasoning under Incomplete and Changing Observations**。这不是按引用量或单一榜单给出的排名，而是一组按研究功能组织的核心文献：第一组建立视觉与语言基础模型的共同语言；第二组依次覆盖跨视角几何、三维表征、动态更新、语言锚定、语义地图与地理定位。它们共同指向一个可被 CV 社区直接识别的问题：如何从不完整、变化且跨视角的观测中，构建可查询、可推理和可行动的地理配准空间表征？
+These 20 papers form two complementary reading paths of ten papers each for **Geo-grounded 3D Vision-Language Reasoning under Incomplete and Changing Observations**. This is a function-based core, not a ranking by citations or a single leaderboard. The first path builds a shared language for visual and language foundation models. The second covers cross-view geometry, 3D representations, dynamic updates, language grounding, semantic maps, and geographic localization. Together, they frame a CV problem: how can a system construct queryable, reasoned, and actionable georegistered spatial representations from incomplete, changing, and cross-view observations?
 
 ### Purpose
 
-本清单的目的不是从 GeoAI 转向脱离地理与公共问题的通用 CV，而是把灾害场景作为检验空间智能可靠性的严苛真实世界试验场。阅读、复现和组合这些工作，应服务于一篇博士阶段代表作：以跨地面、无人机和卫星观测为输入，建立能持续更新、可用语言查询、能明确证据与不确定性，并能提出下一步观测或行动建议的地理配准三维空间表征。
+The goal is not to leave GeoAI for generic computer vision detached from geographic and public problems. Instead, disaster settings serve as rigorous real-world stress tests for reliable spatial intelligence. Reading, reproducing, and combining these papers should support a doctoral signature work: a georegistered 3D spatial representation from ground, drone, and satellite observations that can update over time, answer language queries, identify evidence and uncertainty, and recommend the next observation or action.
 
 ### Ten AI/CV Foundations
 
 1. **[1998 Proceedings of the IEEE] Gradient-Based Learning Applied to Document Recognition**  
    Yann LeCun, Léon Bottou, Yoshua Bengio, Patrick Haffner  
    [[paper]](https://ieeexplore.ieee.org/document/726791)  
-   *Why it matters:* 建立卷积、局部感受野和端到端特征学习的基本范式，是理解 CNN 视觉表征的起点。  
+   *Why it matters:* It establishes convolution, local receptive fields, and end-to-end feature learning, which are the starting point for understanding CNN visual representations.  
    *Keywords:* CNN, Convolution, Pooling, End-to-End Learning
 
 2. **[2012 NeurIPS] ImageNet Classification with Deep Convolutional Neural Networks**  
    Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton  
    [[paper]](https://proceedings.neurips.cc/paper_files/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)  
-   *Why it matters:* AlexNet 说明大规模数据、GPU 训练和深层 CNN 可以显著改变通用视觉能力。  
+   *Why it matters:* AlexNet showed that large-scale data, GPU training, and deep CNNs can substantially change general visual capability.  
    *Keywords:* AlexNet, ImageNet, Deep Learning, GPU Training
 
 3. **[2016 CVPR] Deep Residual Learning for Image Recognition**  
    Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun  
    [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)  
-   *Why it matters:* ResNet 的残差连接使高容量视觉骨干可稳定扩展，至今仍是检测、分割和多模态编码器的共同基础。  
+   *Why it matters:* Residual connections made high-capacity visual backbones stable to scale and remain a shared basis for detection, segmentation, and multimodal encoders.  
    *Keywords:* ResNet, Residual Learning, Deep Networks, Visual Backbone
 
 4. **[2017 NeurIPS] Attention Is All You Need**  
    Ashish Vaswani, Noam Shazeer, Niki Parmar, *et al.*  
    [[paper]](https://arxiv.org/abs/1706.03762)  
-   *Why it matters:* Transformer 让全局关系建模、跨模态对齐和大规模预训练成为统一架构选择。  
+   *Why it matters:* The Transformer made global relation modeling, cross-modal alignment, and large-scale pre-training a unified architectural choice.  
    *Keywords:* Transformer, Self-Attention, Sequence Modeling, Scaling
 
 5. **[2019 NAACL] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**  
    Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova  
    [[paper]](https://aclanthology.org/N19-1423/)  
-   *Why it matters:* BERT 说明预训练语言表征能够迁移到多种下游理解任务，为语言化空间关系和问答接口提供基础。  
+   *Why it matters:* BERT showed that pre-trained language representations transfer across understanding tasks, providing a basis for verbalized spatial relations and question answering.  
    *Keywords:* BERT, Language Pre-training, Transfer Learning, Language Understanding
 
 6. **[2020 NeurIPS] Language Models are Few-Shot Learners**  
    Tom B. Brown, Benjamin Mann, Nick Ryder, *et al.*  
    [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)  
-   *Why it matters:* 展示规模化语言模型的上下文学习能力，为从空间描述到任务规划的推理层提供关键参照。  
+   *Why it matters:* It demonstrates in-context learning in scaled language models, a key reference for a reasoning layer that moves from spatial descriptions to task planning.  
    *Keywords:* GPT-3, Large Language Models, In-Context Learning, Scaling
 
 7. **[2021 ICLR] An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**  
    Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, *et al.*  
    [[paper]](https://arxiv.org/abs/2010.11929)  
-   *Why it matters:* ViT 将 Transformer 引入视觉主干，打开了视觉、语言和三维 token 在统一表征空间中交互的路线。  
+   *Why it matters:* ViT brought Transformers into visual backbones and opened a route for visual, language, and 3D tokens to interact in a shared representation space.  
    *Keywords:* Vision Transformer, ViT, Visual Tokens, Image Recognition
 
 8. **[2021 ICML] Learning Transferable Visual Models From Natural Language Supervision**  
    Alec Radford, Jong Wook Kim, Chris Hallacy, *et al.*  
    [[paper]](https://arxiv.org/abs/2103.00020)  
-   *Why it matters:* CLIP 把开放词汇语言与视觉表征对齐，是将“损毁、可通行性、对象关系”等语言锚定到观测中的核心起点。  
+   *Why it matters:* CLIP aligns open-vocabulary language with visual representations, a starting point for grounding damage, passability, and object relations in observations.  
    *Keywords:* CLIP, Vision-Language Models, Contrastive Learning, Open Vocabulary
 
 9. **[2023 arXiv] DINOv2: Learning Robust Visual Features without Supervision**  
    Maxime Oquab, Timothée Darcet, Théo Moutakanni, *et al.*  
    [[paper]](https://arxiv.org/abs/2304.07193)  
-   *Why it matters:* 说明自监督视觉特征可以在无任务标注时迁移到图像和像素级任务，适合标注稀缺、传感器多样的灾害场景。  
+   *Why it matters:* It shows that self-supervised visual features can transfer to image- and pixel-level tasks without task labels, which suits data-scarce, multi-sensor disaster settings.  
    *Keywords:* DINOv2, Self-Supervised Learning, Visual Foundation Models, Dense Features
 
 10. **[2023 ICCV] Segment Anything**  
     Alexander Kirillov, Eric Mintun, Nikhila Ravi, *et al.*  
     [[paper]](https://arxiv.org/abs/2304.02643)  
-    *Why it matters:* SAM 将可提示的开放式分割变成可复用组件，为跨视角对象边界、变化区域和人机核验提供底层能力。  
+    *Why it matters:* SAM turns promptable open-set segmentation into a reusable component for cross-view object boundaries, changed areas, and human verification.  
     *Keywords:* SAM, Promptable Segmentation, Foundation Models, Object Masks
 
 ### Ten Spatial Intelligence Papers for the Research Direction
@@ -76,61 +78,61 @@ Papers, reproducible artifacts, and references to experiments.
 1. **[2004 IJCV] Distinctive Image Features from Scale-Invariant Keypoints**  
    David G. Lowe  
    [[paper]](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94)  
-   *Why it matters:* SIFT 奠定跨视角局部匹配的几何基础。即使采用学习特征，仍应理解它如何在尺度、旋转与遮挡下建立可验证对应。  
+   *Why it matters:* SIFT establishes the geometric basis of cross-view local matching. Even when using learned features, it explains how to obtain verifiable correspondences under scale, rotation, and occlusion.  
    *Keywords:* SIFT, Local Features, Image Matching, Geometric Verification
 
 2. **[2016 CVPR] Structure-from-Motion Revisited**  
    Johannes L. Schönberger, Jan-Michael Frahm  
    [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)  
-   *Why it matters:* COLMAP 提供从多视角影像恢复相机位姿和稀疏三维结构的可靠基线，是把地面、无人机与天基观测接入共同坐标系的起点。  
+   *Why it matters:* COLMAP provides a reliable baseline for recovering camera poses and sparse 3D structure from multi-view imagery, the starting point for placing ground, drone, and satellite observations in a common coordinate system.  
    *Keywords:* COLMAP, Structure from Motion, Camera Pose, 3D Reconstruction
 
 3. **[2020 ECCV] NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis**  
    Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, *et al.*  
    [[paper]](https://arxiv.org/abs/2003.08934)  
-   *Why it matters:* NeRF 将多视角观测编码为连续三维辐射场，改变了从“几何模型”到“可学习场景表征”的研究范式。  
+   *Why it matters:* NeRF encodes multi-view observations as a continuous 3D radiance field, shifting the research paradigm from geometric models to learned scene representations.  
    *Keywords:* NeRF, Neural Fields, Novel View Synthesis, Multi-View Geometry
 
 4. **[2023 ACM TOG] 3D Gaussian Splatting for Real-Time Radiance Field Rendering**  
    Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis  
    [[paper]](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)  
-   *Why it matters:* 3D Gaussian Splatting 将高保真三维重建推进到实时渲染，为可交互地图和在线观测闭环提供工程可行的场景表示。  
+   *Why it matters:* 3D Gaussian Splatting makes high-fidelity 3D reconstruction renderable in real time, offering an engineering-ready scene representation for interactive maps and online observation loops.  
    *Keywords:* 3D Gaussian Splatting, Real-Time Rendering, Scene Representation, Digital Twins
 
 5. **[2024 CVPR] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**  
    Guanjun Wu, Taoran Yi, Jiemin Fang, *et al.*  
    [[paper]](https://arxiv.org/abs/2310.08528)  
-   *Why it matters:* 将三维表征扩展到随时间变化的四维场景。它是区分真实变化、遮挡和新观测证据的直接技术起点。  
+   *Why it matters:* It extends 3D representations to time-varying 4D scenes and provides a direct technical starting point for distinguishing real change, occlusion, and evidence from new observations.  
    *Keywords:* 4D Gaussian Splatting, Dynamic Scenes, Temporal Modeling, Scene Updates
 
 6. **[2023 ICCV] LERF: Language Embedded Radiance Fields**  
    Justin Kerr, Chung Min Kim, Ken Goldberg, Angjoo Kanazawa, Matthew Tancik  
    [[paper]](https://arxiv.org/abs/2303.09553)  
-   *Why it matters:* LERF 将开放词汇语言特征嵌入三维辐射场，使“语言指向空间中的哪一个对象或区域”成为可操作的 3D grounding 问题。  
+   *Why it matters:* LERF embeds open-vocabulary language features in 3D radiance fields, turning “which object or region in space does language refer to?” into an operational 3D grounding problem.  
    *Keywords:* LERF, Language Grounding, Radiance Fields, Open-Vocabulary 3D
 
 7. **[2023 RSS] ConceptFusion: Open-set Multimodal 3D Mapping**  
    Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, *et al.*  
    [[paper]](https://arxiv.org/abs/2302.07241)  
-   *Why it matters:* 将视觉语言特征融合到稠密三维地图，直接对应跨观测累积语义证据而非只处理单张图像。  
+   *Why it matters:* It fuses vision-language features into dense 3D maps, directly addressing the accumulation of semantic evidence across observations rather than processing one image at a time.  
    *Keywords:* ConceptFusion, Open-Set Mapping, Multimodal 3D, Semantic Maps
 
 8. **[2023 CVPR] OpenScene: 3D Scene Understanding with Open Vocabularies**  
    Songyou Peng, Kyle Genova, Chiyu "Max" Jiang, *et al.*  
    [[paper]](https://arxiv.org/abs/2211.15654)  
-   *Why it matters:* OpenScene 评估语言监督如何转移到三维点云语义理解，为长尾灾害对象和开放世界类别提供必要的评测视角。  
+   *Why it matters:* OpenScene evaluates how language supervision transfers to 3D point-cloud semantics, providing a needed evaluation perspective for long-tail disaster objects and open-world categories.  
    *Keywords:* OpenScene, Open-Vocabulary 3D, Point Clouds, Vision-Language Models
 
 9. **[2023 ICRA] Visual Language Maps for Robot Navigation**  
    Chenguang Huang, Oier Mees, Andy Zeng, Wolfram Burgard  
    [[paper]](https://arxiv.org/abs/2210.05714)  
-   *Why it matters:* 将语言特征沉淀为可查询、可规划的地图，而不是一次性的识别输出，连接“空间语义”与“下一步行动”。  
+   *Why it matters:* It turns language features into a queryable, plannable map rather than a one-off recognition output, connecting spatial semantics to the next action.  
    *Keywords:* VLMaps, Visual Language Maps, Embodied Navigation, Spatial Queries
 
 10. **[2025 ICCV] Where am I? Cross-View Geo-localization with Natural Language Descriptions**  
     Junyan Ye, Honglin Lin, Leyan Ou, *et al.*  
     [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Ye_Where_am_I_Cross-View_Geo-localization_with_Natural_Language_Descriptions_ICCV_2025_paper.html)  
-    *Why it matters:* 直接把地面—卫星跨视角匹配与自然语言描述结合，是将三维语言 grounding 推进到地理配准真实世界的关键桥梁。  
+    *Why it matters:* It directly combines ground-to-satellite cross-view matching with natural-language descriptions, a key bridge from 3D language grounding to a georegistered real world.  
     *Keywords:* Cross-View Geo-localization, Natural Language, Vision-Language Models, Ground-to-Aerial Alignment
 
 ## Science of AI-Driven Science (Science of AI4Science)
