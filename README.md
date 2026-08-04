@@ -400,3 +400,8 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    Jooho Kim, J.V.K. Chaitanya  
    [[paper]](https://doi.org/10.1016/j.isprsjprs.2026.03.030)  
    *Keywords:* Geolocation Refinement, Coordinate Referencing, Building Detection & Inpainting, Perceptual Similarity, DreamSim, Community-Driven Disaster Imagery, Damage Mapping
+
+13. **[2025 arXiv] Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**  
+   Kooshan Amini, Yuhao Liu, Jamie Ellen Padgett, Guha Balakrishnan, Ashok Veeraraghavan  
+   [[paper]](https://arxiv.org/abs/2504.12542)  
+   *Keywords:* Post-Hurricane Debris Segmentation, Foundational Vision Models, Fine-Tuning, CLIPSeg, Aerial Imagery, Open-Source Disaster Dataset, Rapid Post-Disaster Assessment

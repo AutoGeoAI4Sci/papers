@@ -400,3 +400,8 @@
    Jooho Kim, J.V.K. Chaitanya  
    [[论文]](https://doi.org/10.1016/j.isprsjprs.2026.03.030)  
    *关键词：* Geolocation Refinement, Coordinate Referencing, Building Detection & Inpainting, Perceptual Similarity, DreamSim, Community-Driven Disaster Imagery, Damage Mapping
+
+13. **[2025 arXiv] Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models**  
+   Kooshan Amini, Yuhao Liu, Jamie Ellen Padgett, Guha Balakrishnan, Ashok Veeraraghavan  
+   [[论文]](https://arxiv.org/abs/2504.12542)  
+   *关键词：* Post-Hurricane Debris Segmentation, Foundational Vision Models, Fine-Tuning, CLIPSeg, Aerial Imagery, Open-Source Disaster Dataset, Rapid Post-Disaster Assessment
