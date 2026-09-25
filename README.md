@@ -346,6 +346,11 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://arxiv.org/abs/2605.24782)<br>
    *Keywords:* Vision Foundation Models, Scientific Alignment, Tropical Cyclones, Benchmark Dataset, Satellite Imagery, Structural Isomorphism, Physical & Causal Interpretability, Out-of-Distribution Generalization
 
+3. **[2026 arXiv] Can LLM Agents Respond to Disasters? Benchmarking Heterogeneous Geospatial Reasoning in Emergency Operations**<br>
+   Junjue Wang, Weihao Xuan, Heli Qi, Pengyu Dai, Kunyi Liu, Hongruixuan Chen, *et al.*<br>
+   [[paper]](https://arxiv.org/abs/2605.11633)<br>
+   *Keywords:* LLM Agents, Agentic Benchmark, Disaster Response Operations, Heterogeneous Geospatial Reasoning, Tool Use (MCP), Multi-Temporal Remote Sensing, Evacuation Planning, Report Synthesis
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
