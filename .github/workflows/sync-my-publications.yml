@@ -1,0 +1,51 @@
+name: Sync My Publications
+
+# Mirrors rayford-knowledge-atlas/publications/ into my-publications/.
+# The atlas is public, so a scheduled pull needs no secrets. A
+# repository_dispatch hook is also accepted, so the atlas can trigger an
+# immediate sync later if a token is ever added there.
+on:
+  schedule:
+    - cron: "41 6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [publications-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-my-publications
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out this repository
+        uses: actions/checkout@v4
+
+      - name: Check out atlas publications
+        uses: actions/checkout@v4
+        with:
+          repository: rayford295/rayford-knowledge-atlas
+          path: .atlas
+          sparse-checkout: publications
+          sparse-checkout-cone-mode: false
+
+      - name: Mirror publications
+        run: |
+          scripts/sync-my-publications.sh .atlas/publications
+          rm -rf .atlas
+
+      - name: Commit changes
+        run: |
+          git add -A my-publications
+          if git diff --cached --quiet; then
+            echo "my-publications/ already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Sync my-publications from rayford-knowledge-atlas"
+          git push

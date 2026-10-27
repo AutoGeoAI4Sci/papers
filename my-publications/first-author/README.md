@@ -1,0 +1,18 @@
+# First-Author Publications
+
+> **Mirror.** Synced automatically from [rayford-knowledge-atlas/publications](https://github.com/rayford295/rayford-knowledge-atlas/tree/main/publications). Edit there, not here; this folder is overwritten on every sync.
+
+Copies of the published works in this archive on which Yifan Yang is the first author, gathered in one place. The files are identical to those in the parent [`publications/`](../) folder (git stores each PDF only once), so the full archive table there stays the single source of truth. When a new first-author paper is archived, copy its PDF here as well and add a row below.
+
+**8 works:** Journal Article (2), Conference Proceedings (5), Book Chapter (1).
+
+| # | Year | Stage | Type | Publication | Venue | Atlas page | PDF |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 2026 | PhD | Conference Proceedings | When Satellite and Street Views Disagree: Cross-View Complementarity in Disaster Damage Assessment | GeoSearch '26 (ACM SIGSPATIAL Workshop) | [CrossViewGate](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/crossviewgate.md) | [PDF](./2026-when-satellite-and-street-views-disagree-geosearch.pdf) |
+| 2 | 2026 | PhD | Conference Proceedings | Satellite-to-Street: Synthesizing Post-Disaster Views from Satellite Imagery via Generative Vision Models | IGARSS 2026 | [Satellite-to-Street](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/satellite-to-street.md) | [PDF](./2026-satellite-to-street-post-disaster-views-igarss.pdf) |
+| 3 | 2026 | PhD | Conference Proceedings | RAPID: A Reproducible Multi-Agent Pipeline for Interpretable Disaster Damage Assessment from Satellite and Street-View Imagery | ACM SIGSPATIAL 2026 | [RAPID](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/rapid.md) | [PDF](./2026-rapid-multi-agent-disaster-damage-assessment.pdf) |
+| 4 | 2026 | PhD | Conference Proceedings | RAPIDMap: Rapid Multi-Agent Pipeline for Interpretable Disaster Mapping from Satellite and Street-view Imagery | CaGIS 2026 | [RAPIDMap](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/rapidmap.md) | [PDF](./2026-rapidmap-cagis-multi-agent-disaster-mapping.pdf) |
+| 5 | 2025 | PhD | Journal Article | Hyperlocal Disaster Damage Assessment Using Bi-temporal Street-View Imagery and Pre-trained Vision Models | Computers, Environment and Urban Systems | [Hyperlocal Disaster](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/hyperlocal-disaster.md) | [PDF](./2025-hyperlocal-disaster-damage-assessment.pdf) |
+| 6 | 2025 | PhD | Conference Proceedings | Perceiving Multidimensional Disaster Damages from Street-View Images Using Visual-Language Models | International Cartographic Conference (ICC 2025) | [DisasterVLP](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/disastervlp.md) | [PDF](./2025-perceiving-multidimensional-disaster-damages-ica.pdf) |
+| 7 | 2025 | Master's | Book Chapter | Object Detection and Segmentation of Trees using Text SAM in ArcGIS Online | *Security First: Geospatial Workflows for a Safe and Equitable World* (Esri Press) | [ArcGIS Text SAM](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/arcgis-sam-tree-segmentation.md) | [PDF](./2025-object-detection-segmentation-trees-text-sam-arcgis.pdf) |
+| 8 | 2024 | Master's | Journal Article | GeoLocator: A Location-Integrated Large Multimodal Model for Inferring Geo-Privacy | Applied Sciences | [GeoLocator](https://github.com/rayford295/rayford-knowledge-atlas/blob/main/wiki/papers/geolocator.md) | [PDF](./2024-geolocator-location-integrated-lmm-geo-privacy.pdf) |
