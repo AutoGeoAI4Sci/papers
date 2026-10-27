@@ -1,7 +1,16 @@
 # papers
 Papers, reproducible artifacts, and references to experiments.
 
-[简体中文](README.zh-CN.md) | [AI Foundations](ai-foundations/) | [Spatial Intelligence](spatial-intelligence/) | [Disaster Intelligence](disaster-intelligence/)
+[简体中文](README.zh-CN.md) | [AI Foundations](ai-foundations/) | [Spatial Intelligence](spatial-intelligence/) | [Disaster Intelligence](disaster-intelligence/) | [My Publications](my-publications/)
+
+## My Publications
+
+[`my-publications/`](my-publications/) holds PDF copies of my published papers and chapters, both first-author and co-authored:
+
+- **All works:** [`my-publications/`](my-publications/) — full table with year, degree stage, type, and links to each paper's atlas page.
+- **First-author works only:** [`my-publications/first-author/`](my-publications/first-author/).
+
+The folder is a read-only mirror of [`rayford-knowledge-atlas/publications`](https://github.com/rayford295/rayford-knowledge-atlas/tree/main/publications), which stays the single source of truth. The [Sync My Publications](.github/workflows/sync-my-publications.yml) workflow pulls it once a day (and on manual run), so a paper archived in the atlas appears here automatically. To sync by hand from a local atlas clone, run `scripts/sync-my-publications.sh <atlas>/publications`.
 
 ## Core Reading: AI/CV Foundations & Geo-Grounded 3D Vision-Language Reasoning
 

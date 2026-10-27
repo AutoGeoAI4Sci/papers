@@ -1,7 +1,16 @@
 # 论文精选
 论文、可复现实验产物与实验参考。
 
-[English](README.md) | [AI 基础](ai-foundations/) | [空间智能](spatial-intelligence/) | [灾害智能](disaster-intelligence/)
+[English](README.md) | [AI 基础](ai-foundations/) | [空间智能](spatial-intelligence/) | [灾害智能](disaster-intelligence/) | [我的论文](my-publications/)
+
+## 我的论文
+
+[`my-publications/`](my-publications/) 收录我已发表论文与书章的 PDF，包括一作和合作论文：
+
+- **全部论文：** [`my-publications/`](my-publications/)，表格列出年份、学位阶段、类型，并链接到每篇论文的 atlas 页面。
+- **仅一作：** [`my-publications/first-author/`](my-publications/first-author/)。
+
+该文件夹是 [`rayford-knowledge-atlas/publications`](https://github.com/rayford295/rayford-knowledge-atlas/tree/main/publications) 的只读镜像，atlas 是唯一数据源。[Sync My Publications](.github/workflows/sync-my-publications.yml) 工作流每天自动同步一次（也可手动触发），atlas 里新归档的论文会自动出现在这里。本地手动同步：`scripts/sync-my-publications.sh <atlas>/publications`。
 
 ## 核心阅读：AI/CV 基础与地理配准的 3D 视觉语言推理
 
