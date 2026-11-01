@@ -336,6 +336,11 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://www.nature.com/articles/s41467-024-47394-2)<br>
    *Keywords:* Flood Risk Mapping, Social Vulnerability, Vulnerability-Adjusted Risk Index, Fluvial Flooding, Global Risk Assessment, Population Exposure, Disaster Risk Reduction
 
+2. **[2026 Nature Sustainability] Global socio-economic resilience to disasters**<br>
+   Robin Middelanis, Bramka Arga Jafino, Ruth Hill, Minh Cong Nguyen, Stéphane Hallegatte<br>
+   [[paper]](https://www.nature.com/articles/s41893-026-01947-z)<br>
+   *Keywords:* Socio-Economic Resilience, Well-Being Losses, Asset Losses, Microsimulation, Distributional Impacts, Poverty & Inequality, Recovery Time, Global Risk Assessment, Disaster Risk Management
+
 ## Remote Sensing Super-Resolution & Downstream Evaluation
 
 1. **[2026 arXiv] Beyond Visual Fidelity: Benchmarking Super-Resolution Models for Large-Scale Remote Sensing Imagery via Downstream Task Integration**  
