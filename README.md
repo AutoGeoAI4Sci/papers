@@ -322,6 +322,11 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://www.nature.com/articles/s41467-025-65373-z)  
    *Keywords:* Human Mobility Prediction, Satellite Imagery, Deep Learning, Urban Dynamics, Spatial Interaction Modeling, Remote Sensing, GeoAI
 
+2. **[2024 ISPRS Journal of Photogrammetry and Remote Sensing] Global Streetscapes — A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics**  
+   Yujun Hou, Matias Quintana, Maxim Khomiakov, Winston Yap, Jiani Ouyang, Koichi Ito, Zeyu Wang, Tianhong Zhao, Filip Biljecki  
+   [[paper]](https://doi.org/10.1016/j.isprsjprs.2024.06.023) [[code]](https://github.com/ualsg/global-streetscapes)  
+   *Keywords:* Street-View Imagery, Global Urban Dataset, Mapillary, KartaView, Image Quality & Metadata, Urban Science, Computer Vision Benchmarks
+
 ## Energy, Social Media & Public Perception
 
 1. **[2019 Energy Research & Social Science] Beyond big data: Social media challenges and opportunities for understanding social perception of energy**<br>
