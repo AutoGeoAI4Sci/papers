@@ -277,6 +277,11 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://arxiv.org/abs/2605.19656)  
    *Keywords:* Cross-View Synthesis, Satellite-Ground Fusion, Gaussian Splatting, Feed-Forward Novel-View Synthesis, Georeferenced Imagery, 3D Reconstruction, World-Ground Alignment
 
+5. **[2027 WACV] GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis**  
+   Akshay Krishnan, Matias Turkulainen, Jamie Wynn, Zawar Qureshi, Mohamed Sayed, Guillermo Garcia-Hernando, Sara Vicente, James Hays, Michael Firman, Daniyar Turmukhambetov  
+   [[paper]](https://arxiv.org/abs/2610.37545) [[project]](https://nianticspatial.github.io/groundcontrol/)  
+   *Keywords:* Satellite-Conditioned Diffusion, Multi-View Diffusion, Reconstruction-Free Novel-View Synthesis, Ray-Guided Cross-Attention, Street-to-Satellite, World-Ground Alignment
+
 ## Spatial Reasoning, Geolocalization & Map-Based Agents
 
 1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  

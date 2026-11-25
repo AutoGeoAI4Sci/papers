@@ -277,6 +277,11 @@
    [[论文]](https://arxiv.org/abs/2605.19656)  
    *关键词：* Cross-View Synthesis, Satellite-Ground Fusion, Gaussian Splatting, Feed-Forward Novel-View Synthesis, Georeferenced Imagery, 3D Reconstruction, World-Ground Alignment
 
+5. **[2027 WACV] GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis**  
+   Akshay Krishnan, Matias Turkulainen, Jamie Wynn, Zawar Qureshi, Mohamed Sayed, Guillermo Garcia-Hernando, Sara Vicente, James Hays, Michael Firman, Daniyar Turmukhambetov  
+   [[论文]](https://arxiv.org/abs/2610.37545) [[项目]](https://nianticspatial.github.io/groundcontrol/)  
+   *关键词：* Satellite-Conditioned Diffusion, Multi-View Diffusion, Reconstruction-Free Novel-View Synthesis, Ray-Guided Cross-Attention, Street-to-Satellite, World-Ground Alignment
+
 ## 空间推理、地理定位与地图智能体
 
 1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
